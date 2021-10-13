@@ -8,9 +8,6 @@ galaxy_info:
   - name: Ubuntu
     versions:
     - focal
-  - name: Debian
-    versions:
-    - xenial
   galaxy_tags:
     - build
     - cctray
